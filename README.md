@@ -1,7 +1,7 @@
 # energy-recovery-model
 Containerised Gas-to-Power (G2P) with CHP Energy Recovery System
 
-Every day, oil wells worldwide flare millions of cubic meters of associated petroleum gas straight into the open air. This isn't just a waste of valuable energy—it is an environmental disaster. Open-air flaring releases massive amounts of raw methane and carbon dioxide directly into our atmosphere, driving global climate change. 
+Every day, oil wells worldwide flare millions of cubic meters of associated petroleum gas straight into the open air. This isn't just a waste of valuable energy; it is an environmental disaster. Open-air flaring releases massive amounts of raw methane and carbon dioxide directly into our atmosphere, driving global climate change. 
 
 I designed this project to eliminate this waste at the source. Instead of letting this gas burn in the open sky, my system captures the flare line, channels it into a mobile, containerised unit, and transforms a toxic environmental pollutant into two clean, productive resource streams: reliable electricity and industrial heat. 
 
